@@ -54,50 +54,56 @@ const raisul = {
 
 <table align="center">
   <tr>
-    <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br/>
-      <b>MongoDB</b><br/>
-      <sub>Database design & aggregation</sub>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="55" />
+      <br><b>MongoDB</b>
+      <br><sub>Database Design & Aggregation</sub>
     </td>
-    <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=express" width="50"/><br/>
-      <b>Express.js</b><br/>
-      <sub>REST APIs & middleware</sub>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=express" width="55" />
+      <br><b>Express.js</b>
+      <br><sub>REST APIs & Middleware</sub>
     </td>
-    <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=react" width="50"/><br/>
-      <b>React</b><br/>
-      <sub>Dynamic, component-driven UI</sub>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=react" width="55" />
+      <br><b>React</b>
+      <br><sub>Component-Based UI</sub>
     </td>
-    <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br/>
-      <b>Node.js</b><br/>
-      <sub>Server-side logic & auth</sub>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55" />
+      <br><b>Node.js</b>
+      <br><sub>Backend & Authentication</sub>
     </td>
-    <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br/>
-      <b>Next.js</b><br/>
-      <sub>Full-stack React framework</sub>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="55" />
+      <br><b>Next.js</b>
+      <br><sub>Full-Stack Framework</sub>
     </td>
-    <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=typescript" width="50"/><br/>
-      <b>TypeScript</b><br/>
-      <sub>Type-safe JavaScript</sub>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=typescript" width="55" />
+      <br><b>TypeScript</b>
+      <br><sub>Type-Safe Development</sub>
     </td>
-    <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/>
-      <b>Tailwind CSS</b><br/>
-      <sub>Utility-first styling</sub>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" />
+      <br><b>Tailwind CSS</b>
+      <br><sub>Modern Styling</sub>
     </td>
-    <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>
-      <b>MySQL</b><br/>
-      <sub>Relational database</sub>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="55" />
+      <br><b>MySQL</b>
+      <br><sub>Relational Database</sub>
     </td>
-    <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=php" width="50"/><br/>
-      <b>PHP</b><br/>
-      <sub>Backend web development</sub>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" width="55" />
+      <br><b>PHP</b>
+      <br><sub>Backend Development</sub>
     </td>
   </tr>
 </table>
