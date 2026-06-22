@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="https://github.com/mdraisulislam02">
+<!-- <a href="https://github.com/mdraisulislam02">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Raisul+%F0%9F%91%8B;MERN+Stack+Developer;Building+Web+Apps+from+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
-</a>
+</a> -->
 
 <br/>
 
@@ -196,7 +196,7 @@ const raisul = {
 
 ## 💼 Business
 
-📧 &emsp;**mdraju3248@gmail.com**
+📧 &emsp;**coder.raisul@gmail.com**
 <br/>
 📧 &emsp;**raisul@imjol.com**
 
