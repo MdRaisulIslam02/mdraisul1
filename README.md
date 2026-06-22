@@ -54,29 +54,53 @@ const raisul = {
 
 <table align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="12.5%">
       <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br/>
       <b>MongoDB</b><br/>
       <sub>Database design & aggregation</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="12.5%">
       <img src="https://skillicons.dev/icons?i=express" width="50"/><br/>
       <b>Express.js</b><br/>
       <sub>REST APIs & middleware</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="12.5%">
       <img src="https://skillicons.dev/icons?i=react" width="50"/><br/>
       <b>React</b><br/>
       <sub>Dynamic, component-driven UI</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="12.5%">
       <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br/>
       <b>Node.js</b><br/>
       <sub>Server-side logic & auth</sub>
     </td>
+    <td align="center" width="12.5%">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br/>
+      <b>Next.js</b><br/>
+      <sub>Full-stack React framework</sub>
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://skillicons.dev/icons?i=typescript" width="50"/><br/>
+      <b>TypeScript</b><br/>
+      <sub>Type-safe JavaScript</sub>
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/>
+      <b>Tailwind CSS</b><br/>
+      <sub>Utility-first styling</sub>
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>
+      <b>MySQL</b><br/>
+      <sub>Relational database</sub>
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://skillicons.dev/icons?i=php" width="50"/><br/>
+      <b>PHP</b><br/>
+      <sub>Backend web development</sub>
+    </td>
   </tr>
 </table>
-
 <br/>
 
 ## 🌐 Connect with me
